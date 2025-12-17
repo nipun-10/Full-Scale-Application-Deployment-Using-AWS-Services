@@ -99,7 +99,7 @@ Below is a summary of the infrastructure components used:
 
 ## 🧩 **High-Level Architecture Diagram (Optional)**
 
-If you upload your architecture diagram as a PNG, use this in README:
+![Architecture Diagram](Arch_Diagram.jpg)
 
 
 
